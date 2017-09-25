@@ -9,10 +9,6 @@
   <modules>
     <module>simple-webapp</module>
   </modules>
-  <scm>
-    <developerConnection>scm:git:https://github.com/saikiran082216/ciproject.git</developerConnection>
-    <tag>release 1.2</tag>
-  </scm>
   <distributionManagement>
   <snapshotRepository>
     <id>snapshots</id>
