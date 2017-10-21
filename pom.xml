@@ -13,7 +13,7 @@
   <snapshotRepository>
     <id>snapshots</id>
        <name>SNAPSHOT</name>
-    <url>http:52.90.251.74:8081/nexus-2.14.5-02/content/repositories/snapshots/</url>
+    <url>http://52.90.251.74:8081/nexus-2.14.5-02/content/repositories/snapshots/</url>
   </snapshotRepository>
     <repository>
     <id>releases</id>
